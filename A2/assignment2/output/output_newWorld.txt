@@ -1,0 +1,277 @@
+Welcome to MapManager
+Do you want to load an existing file (l) or start from scratch (s)?
+l
+Enter the location of the file to load: ..\resources\World.map
+Loaded successfully!
+
+What do you want to do? Choose from the following list:
+
+0. Show current configuration
+1. Create a country
+2. Define the adjacency relationships between countries
+3. Create continent
+4. Assign countries to a continent
+5. Save to file
+6. Exit (no saving)
+
+> 0
+World Earth contains the 6 following continent: Africa, Asia, Australia, Europe, North America, South America.
+
+Continent Africa has 3 points of bonus for owning one of its territories, contains the 6 following territories: Congo, East Africa, Egypt, Madagascar,
+ North Africa, South Africa.
+Territory Congo centered at (475,318), is adjacent to the 3 following territories: North Africa, East Africa, South Africa.
+Territory East Africa centered at (517,298), is adjacent to the 6 following territories: Egypt, Middle East, Congo, North Africa, South Africa, Madaga
+scar.
+Territory Egypt centered at (480,249), is adjacent to the 4 following territories: Southern Europe, North Africa, Middle East, East Africa.
+Territory Madagascar centered at (536,361), is adjacent to the 2 following territories: East Africa, South Africa.
+Territory North Africa centered at (420,264), is adjacent to the 6 following territories: Brazil, Western Europe, Southern Europe, Egypt, East Africa,
+ Congo.
+Territory South Africa centered at (483,371), is adjacent to the 3 following territories: Congo, East Africa, Madagascar.
+
+Continent Asia has 7 points of bonus for owning one of its territories, contains the 12 following territories: Afghanistan, China, India, Irkutsk, Jap
+an, Kamchatka, Middle East, Mongolia, Siam, Siberia, Ural, Yatusk.
+Territory Afghanistan centered at (585,192), is adjacent to the 5 following territories: Ural, China, India, Middle East, Ukraine.
+Territory China centered at (662,217), is adjacent to the 6 following territories: Ural, Siberia, Mongolia, Siam, India, Afghanistan.
+Territory India centered at (612,249), is adjacent to the 4 following territories: China, Siam, Afghanistan, Middle East.
+Territory Irkutsk centered at (698,152), is adjacent to the 4 following territories: Siberia, Yatusk, Kamchatka, Mongolia.
+Territory Japan centered at (759,220), is adjacent to the 2 following territories: Kamchatka, Mongolia.
+Territory Kamchatka centered at (806,125), is adjacent to the 5 following territories: Yatusk, Irkutsk, Japan, Alaska, Mongolia.
+Territory Middle East centered at (530,234), is adjacent to the 6 following territories: Ukraine, Afghanistan, India, Southern Europe, Egypt, East Afr
+ica.
+Territory Mongolia centered at (707,188), is adjacent to the 5 following territories: Siberia, Irkutsk, Japan, China, Kamchatka.
+Territory Siam centered at (671,270), is adjacent to the 3 following territories: China, India, Indonesia.
+Territory Siberia centered at (666,110), is adjacent to the 5 following territories: Yatusk, Irkutsk, Mongolia, China, Ural.
+Territory Ural centered at (613,136), is adjacent to the 4 following territories: Siberia, China, Afghanistan, Ukraine.
+Territory Yatusk centered at (738,118), is adjacent to the 3 following territories: Siberia, Irkutsk, Kamchatka.
+
+Continent Australia has 2 points of bonus for owning one of its territories, contains the 4 following territories: Eastern Australia, Indonesia, New G
+uinea, Western Australia.
+Territory Eastern Australia centered at (779,381), is adjacent to the 2 following territories: Western Australia, New Guinea.
+Territory Indonesia centered at (698,314), is adjacent to the 3 following territories: Siam, New Guinea, Western Australia.
+Territory New Guinea centered at (768,325), is adjacent to the 3 following territories: Indonesia, Western Australia, Eastern Australia.
+Territory Western Australia centered at (729,373), is adjacent to the 3 following territories: Indonesia, New Guinea, Eastern Australia.
+
+Continent Europe has 5 points of bonus for owning one of its territories, contains the 7 following territories: Great Britain, Iceland, Northern Europ
+e, Scandinavia, Southern Europe, Ukraine, Western Europe.
+Territory Great Britain centered at (419,169), is adjacent to the 4 following territories: Iceland, Scandinavia, Western Europe, Northern Europe.
+Territory Iceland centered at (380,126), is adjacent to the 3 following territories: Greenland, Great Britain, Scandinavia.
+Territory Northern Europe centered at (460,173), is adjacent to the 5 following territories: Great Britain, Scandinavia, Ukraine, Southern Europe, Wes
+tern Europe.
+Territory Scandinavia centered at (463,127), is adjacent to the 4 following territories: Iceland, Great Britain, Northern Europe, Ukraine.
+Territory Southern Europe centered at (473,197), is adjacent to the 6 following territories: Northern Europe, Ukraine, Middle East, Egypt, North Afric
+a, Western Europe.
+Territory Ukraine centered at (524,157), is adjacent to the 6 following territories: Ural, Afghanistan, Middle East, Southern Europe, Northern Europe,
+ Scandinavia.
+Territory Western Europe centered at (423,202), is adjacent to the 4 following territories: Great Britain, Northern Europe, Southern Europe, North Afr
+ica.
+
+Continent North America has 5 points of bonus for owning one of its territories, contains the 9 following territories: Alaska, Alberta, Central Americ
+a, Eastern United States, Greenland, Northwest Territory, Ontario, Quebec, Western United States.
+Territory Alaska centered at (70,126), is adjacent to the 3 following territories: Northwest Territory, Alberta, Kamchatka.
+Territory Alberta centered at (147,163), is adjacent to the 4 following territories: Alaska, Northwest Territory, Ontario, Western United States.
+Territory Central America centered at (183,262), is adjacent to the 3 following territories: Western United States, Eastern United States, Venezuala.
+Territory Eastern United States centered at (219,216), is adjacent to the 4 following territories: Ontario, Quebec, Western United States, Central Ame
+rica.
+Territory Greenland centered at (324,76), is adjacent to the 4 following territories: Northwest Territory, Ontario, Quebec, Iceland.
+Territory Northwest Territory centered at (148,127), is adjacent to the 4 following territories: Alaska, Alberta, Ontario, Greenland.
+Territory Ontario centered at (199,167), is adjacent to the 6 following territories: Northwest Territory, Alberta, Greenland, Quebec, Western United S
+tates, Eastern United States.
+Territory Quebec centered at (253,166), is adjacent to the 3 following territories: Greenland, Ontario, Eastern United States.
+Territory Western United States centered at (159,204), is adjacent to the 4 following territories: Alberta, Ontario, Eastern United States, Central Am
+erica.
+
+Continent South America has 2 points of bonus for owning one of its territories, contains the 4 following territories: Argentina, Brazil, Peru, Venezu
+ala.
+Territory Argentina centered at (263,407), is adjacent to the 2 following territories: Peru, Brazil.
+Territory Brazil centered at (308,337), is adjacent to the 4 following territories: Venezuala, Peru, Argentina, North Africa.
+Territory Peru centered at (262,349), is adjacent to the 3 following territories: Venezuala, Brazil, Argentina.
+Territory Venezuala centered at (259,303), is adjacent to the 3 following territories: Central America, Peru, Brazil.
+
+
+What do you want to do? Choose from the following list:
+
+0. Show current configuration
+1. Create a country
+2. Define the adjacency relationships between countries
+3. Create continent
+4. Assign countries to a continent
+5. Save to file
+6. Exit (no saving)
+
+> 1
+Enter the name of the new country: New Quebec
+Enter the X position: 10
+Enter the Y position: 50
+Country added!
+
+What do you want to do? Choose from the following list:
+
+0. Show current configuration
+1. Create a country
+2. Define the adjacency relationships between countries
+3. Create continent
+4. Assign countries to a continent
+5. Save to file
+6. Exit (no saving)
+
+> 2
+Existing countries:
+
+Afghanistan <585,192> (Ural, China, India, Middle East, Ukraine)
+Alaska <70,126> (Northwest Territory, Alberta, Kamchatka)
+Alberta <147,163> (Alaska, Northwest Territory, Ontario, Western United States)
+Argentina <263,407> (Peru, Brazil)
+Brazil <308,337> (Venezuala, Peru, Argentina, North Africa)
+Central America <183,262> (Western United States, Eastern United States, Venezuala)
+China <662,217> (Ural, Siberia, Mongolia, Siam, India, Afghanistan)
+Congo <475,318> (North Africa, East Africa, South Africa)
+East Africa <517,298> (Egypt, Middle East, Congo, North Africa, South Africa, Madagascar)
+Eastern Australia <779,381> (Western Australia, New Guinea)
+Eastern United States <219,216> (Ontario, Quebec, Western United States, Central America)
+Egypt <480,249> (Southern Europe, North Africa, Middle East, East Africa)
+Great Britain <419,169> (Iceland, Scandinavia, Western Europe, Northern Europe)
+Greenland <324,76> (Northwest Territory, Ontario, Quebec, Iceland)
+Iceland <380,126> (Greenland, Great Britain, Scandinavia)
+India <612,249> (China, Siam, Afghanistan, Middle East)
+Indonesia <698,314> (Siam, New Guinea, Western Australia)
+Irkutsk <698,152> (Siberia, Yatusk, Kamchatka, Mongolia)
+Japan <759,220> (Kamchatka, Mongolia)
+Kamchatka <806,125> (Yatusk, Irkutsk, Japan, Alaska, Mongolia)
+Madagascar <536,361> (East Africa, South Africa)
+Middle East <530,234> (Ukraine, Afghanistan, India, Southern Europe, Egypt, East Africa)
+Mongolia <707,188> (Siberia, Irkutsk, Japan, China, Kamchatka)
+New Guinea <768,325> (Indonesia, Western Australia, Eastern Australia)
+New Quebec <10,50> ()
+North Africa <420,264> (Brazil, Western Europe, Southern Europe, Egypt, East Africa, Congo)
+Northern Europe <460,173> (Great Britain, Scandinavia, Ukraine, Southern Europe, Western Europe)
+Northwest Territory <148,127> (Alaska, Alberta, Ontario, Greenland)
+Ontario <199,167> (Northwest Territory, Alberta, Greenland, Quebec, Western United States, Eastern United States)
+Peru <262,349> (Venezuala, Brazil, Argentina)
+Quebec <253,166> (Greenland, Ontario, Eastern United States)
+Scandinavia <463,127> (Iceland, Great Britain, Northern Europe, Ukraine)
+Siam <671,270> (China, India, Indonesia)
+Siberia <666,110> (Yatusk, Irkutsk, Mongolia, China, Ural)
+South Africa <483,371> (Congo, East Africa, Madagascar)
+Southern Europe <473,197> (Northern Europe, Ukraine, Middle East, Egypt, North Africa, Western Europe)
+Ukraine <524,157> (Ural, Afghanistan, Middle East, Southern Europe, Northern Europe, Scandinavia)
+Ural <613,136> (Siberia, China, Afghanistan, Ukraine)
+Venezuala <259,303> (Central America, Peru, Brazil)
+Western Australia <729,373> (Indonesia, New Guinea, Eastern Australia)
+Western Europe <423,202> (Great Britain, Northern Europe, Southern Europe, North Africa)
+Western United States <159,204> (Alberta, Ontario, Eastern United States, Central America)
+Yatusk <738,118> (Siberia, Irkutsk, Kamchatka)
+Enter first country to pair: New Quebec
+Enter second country to pair: Quebec
+Paired!
+
+What do you want to do? Choose from the following list:
+
+0. Show current configuration
+1. Create a country
+2. Define the adjacency relationships between countries
+3. Create continent
+4. Assign countries to a continent
+5. Save to file
+6. Exit (no saving)
+
+> 3
+Enter the name of the new continent: New Australia
+Enter score for owning the continent: 99
+Continent created!
+
+What do you want to do? Choose from the following list:
+
+0. Show current configuration
+1. Create a country
+2. Define the adjacency relationships between countries
+3. Create continent
+4. Assign countries to a continent
+5. Save to file
+6. Exit (no saving)
+
+> 1
+Enter the name of the new country: Big Australia
+Enter the X position: 100
+Enter the Y position: 110
+Country added!
+
+What do you want to do? Choose from the following list:
+
+0. Show current configuration
+1. Create a country
+2. Define the adjacency relationships between countries
+3. Create continent
+4. Assign countries to a continent
+5. Save to file
+6. Exit (no saving)
+
+> 4
+Existing continents:
+Africa
+Asia
+Australia
+Europe
+New Australia
+North America
+South America
+
+Unassigned countries:
+Big Australia ()
+New Quebec (Quebec)
+
+Enter the continent you want to assign a country to: North America
+Enter the country you want to assign to North America: New Quebec
+The country New Quebec was added to the continent North America!
+
+What do you want to do? Choose from the following list:
+
+0. Show current configuration
+1. Create a country
+2. Define the adjacency relationships between countries
+3. Create continent
+4. Assign countries to a continent
+5. Save to file
+6. Exit (no saving)
+
+> 4
+Existing continents:
+Africa
+Asia
+Australia
+Europe
+New Australia
+North America
+South America
+
+Unassigned countries:
+Big Australia ()
+
+Enter the continent you want to assign a country to: New Australia
+Enter the country you want to assign to New Australia: Big Australia
+The country Big Australia was added to the continent New Australia!
+
+What do you want to do? Choose from the following list:
+
+0. Show current configuration
+1. Create a country
+2. Define the adjacency relationships between countries
+3. Create continent
+4. Assign countries to a continent
+5. Save to file
+6. Exit (no saving)
+
+> 5
+Enter the location of the file to save: ..\resources\newWorld.map
+Saved!
+
+What do you want to do? Choose from the following list:
+
+0. Show current configuration
+1. Create a country
+2. Define the adjacency relationships between countries
+3. Create continent
+4. Assign countries to a continent
+5. Save to file
+6. Exit (no saving)
+
+> 6
